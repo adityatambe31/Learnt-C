@@ -22,9 +22,12 @@ To get started with the code in this repository:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/adityatambe31/Learnt-C.git
+   git clone https://github.com/adityatambe31/Learnt-Java.git
+    ```
+2. **Navigate into the project directory:**
+   ```bash
+   cd Learnt-Java
    ```
-
 
 ### 💡 Features
 <li>Basic to Advanced Topics: From fundamental concepts to more complex topics. 📚</li>
