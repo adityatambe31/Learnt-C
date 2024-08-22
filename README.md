@@ -26,7 +26,7 @@ To get started with the code in this repository:
     ```
 2. **Navigate into the project directory:**
    ```bash
-   cd Learnt-Java
+   cd Learnt-C
    ```
 
 ### 💡 Features
